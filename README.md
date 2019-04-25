@@ -4,14 +4,14 @@
 # RML: Ricardian Markup Language
 ## Elements
 
-<signature></signature>
-<signer></signer>
-<agent></agent>
-<party></party>
-<witness></witness>
+`<signature></signature>`
+`<signer></signer>`
+`<agent></agent>`
+`<party></party>`
+`<witness></witness>`
 
-<address></address>
-<asset></asset>
-<date></date>
+`<address></address>`
+`<asset></asset>`
+`<date></date>`
 
-<contract></contract>
+`<contract></contract>`
